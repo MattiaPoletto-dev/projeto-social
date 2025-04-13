@@ -1,2 +1,1 @@
-# projeto-social
- Projeto de redes sociais feito no Curso em Vídeo
+Acesse o site: https://mattiapoletto-dev.github.io/projeto-social/
